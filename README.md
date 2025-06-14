@@ -51,7 +51,4 @@
 <a href="https://www.linkedin.com/in/sameer-sinha-75889a286/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
-&nbsp;
-<a href="sameers.ug23.ee@nitp.ac.in">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
-</a>
+
